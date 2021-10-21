@@ -4,6 +4,7 @@ This repository contains: <br>
 \> the opencv face detection haarcascade_frontalface_alt.xml file, <br>
 \> the test and train csv files, and <br>
 \> the master.py python file, which will be used for performing the facial recognition. <br>
+\> the output results.csv file containing the face matching predictions of the images contained in the test.csv file. <br>
 
 The modules required to run the file are: <br>
 \> face_recognition, tqdm, sklearn*, sys <br>
