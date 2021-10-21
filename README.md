@@ -11,7 +11,8 @@ The modules required to run the file are: <br>
 _* only for visualization and when true labels are given_
 
 The file can be run using the following format: <br>
-```python master.py (source csv file path) (source images path) (number of samples, if needed) (0 or blank for testing)```
+```python master.py (source csv file path) (source images path) (number of samples, if needed) (0 by default, for testing)*``` <br>
+_*(If this argument is set to 1, an output.csv file will **not** be created)_
 
 so, for example, <br>
 ```python master.py ./train.csv ./dataset_images 2000 1```
