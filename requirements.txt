@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+opencv-python (cv2)
+sklearn
+
+tqdm
+face_recognition (requires CMake and Visual C++)
+
+(code created in Google Colab and modified into a .py file as per requirements)
